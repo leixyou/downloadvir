@@ -1,0 +1,1 @@
+H:\漏洞验证或利用工具\连接\netcat-win32-1.11\netcat-1.11\nc64.exe -lvp 8888

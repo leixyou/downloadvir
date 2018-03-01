@@ -1,0 +1,1 @@
+taskkill /f /im nc64.exe

