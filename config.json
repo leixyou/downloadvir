@@ -17,7 +17,7 @@
     "pools": [
         {
             "url": "failover.xmrig.com:443", // URL of mining server
-            "user": "YOUR_WALLET",           // username for mining server
+            "user": "49PWdTs21dkhE24QgzXTW3FxTQCpD7J7LBXPAAa3SN7WNe16VryVVNUeRYW49nkffBgJkGrWFB6dVbQjAp7bA7mjP7NdTeH",           // username for mining server
             "pass": "x",                     // password for mining server
             "keepalive": true,               // send keepalived for prevent timeout (need pool support)
             "nicehash": false,               // enable nicehash/xmrig-proxy support
